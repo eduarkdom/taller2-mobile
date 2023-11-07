@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">entrega2</string>
     <string name="create_button">Crear</string>
     <string name="delete_button">Eliminar</string>
 </resources>
